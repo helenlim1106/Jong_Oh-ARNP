@@ -1,0 +1,11 @@
+
+body { margin:0; font-family:Arial,sans-serif; line-height:1.6; color:#333; background:#fff; }
+header { background:#A8D5BA; color:#024731; padding:20px 10px; text-align:center; margin-bottom:10px; }
+.profile-photo { width:250px; height:250px; border-radius:50%; }
+nav { background:#8EC6C5; display:flex; justify-content:center; padding:5px 0; }
+nav a { color:#fff; margin:0 5px; padding:10px 15px; text-decoration:none; font-weight:bold; }
+nav a:hover { background:#94d2bd; }
+.container { max-width:800px; margin:20px auto; padding:0 15px; }
+h1, h2 { color:#024731; }
+section { margin-top:20px; }
+footer { background:#A8D5BA; color:#024731; text-align:center; padding:10px; margin-top:20px; font-size:0.9em; }
